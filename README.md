@@ -70,7 +70,13 @@ This is a standalone sub-tool of the **SceneryShield** project. Designed specifi
 * **Project:** SceneryShield
 
 ---
+## ⚠️ 安全说明 | Security Note | セキュリティ注意
 
-## ⚖️ 开源协议 | License | ライセンス
+### 中文 (Chinese)
+**关于 Windows SmartScreen 的说明：** 作为一名独立开发者，此软件尚未进行数字签名。运行程序时您可能会看到安全警告。请点击“更多信息”，然后选择“仍要运行”。您可以放心使用，该工具仅用于本地生成激活码，不包含任何恶意行为。
 
-MIT License.
+### English
+**Note on Windows SmartScreen:** As an independent developer, this software is not digitally signed. You may see a warning. Please click **"More info"** and then **"Run anyway"**. This tool is a local utility for licence key generation and does not contain any malicious code.
+
+### 日本語 (Japanese)
+**Windows SmartScreen に関する注意：** 個人開発者であるため、このソフトウェアにはデジタル署名がありません。実行時に警告が表示される場合がありますが、**「詳細情報」**をクリックしてから**「実行」**を選択してください。このツールはローカルでライセンスキーを生成するためのユーティリティであり、悪意のあるコードは含まれていません。
